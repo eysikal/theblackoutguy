@@ -17,7 +17,7 @@ title = "The Blackout Guy"
 [params.author]
   name = "The Blackout Guy"
   # email = "youremail@example.com"
-  image = "img/blowfish_logo.png"
+  image = "img/theblackoutguy-zcool.svg"
   imageQuality = 96
   # headline = "I'm only human"
   # bio = "A little bit about you"
