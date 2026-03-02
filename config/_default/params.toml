@@ -18,6 +18,7 @@ enableStructuredBreadcrumbs = false
 replyByEmail = false
 
 # mainSections = ["section1", "section2"]
+##### IMPORTANT: must update the below if we want pages to get indexed!
 robots = "noindex, nofollow"
 
 disableImageOptimization = false
