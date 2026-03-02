@@ -1,6 +1,0 @@
-baseURL = 'https://theblackoutguy.com/'
-languageCode = 'en-us'
-title = 'The Blackout Guy'
-
-[params]
-  noindex = true  # Set to false when you're ready to go live!
