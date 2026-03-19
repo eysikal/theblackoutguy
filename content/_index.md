@@ -5,7 +5,7 @@ description = "Your go-to resource for bypassing MLB.TV blackout restrictions. T
 
 Tired of MLB.TV blackouts? I’ve been helping fans bypass blackouts since 2009.
 
-{{< button href="/bypass-mlb-tv-blackouts/" >}}
+{{< button href="/bypass-mlbtv-blackouts/" >}}
 How to Bypass Blackouts
 {{< /button >}}
 

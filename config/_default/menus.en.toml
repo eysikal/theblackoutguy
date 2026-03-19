@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Bypass Guide"
-  pageRef = "bypass-mlb-tv-blackouts"
+  pageRef = "bypass-mlbtv-blackouts"
   weight = 10
 
 [[main]]
