@@ -21,7 +21,7 @@ You might say to yourself, "I live in Las Vegas but I'm blacked out of Dodgers g
 
 Lucikly the answer is **yes**.
 
-I have been bypassing MLB.TV blackouts since 2009. When I first started getting around blackouts, the only real option was to route your connection through a sketch free proxy server and hop the stream didn't buffer every 30 seconds. Today the tools are much better and easier to setup. Over the years the methods have had to change in order to combat MLB.TV's countermeasures, but I've keep track of the trends and you can consult this guide to stay up to date.
+I have been bypassing MLB.TV blackouts since 2009. When I first started getting around blackouts, the only real option was to route your connection through a sketch free proxy server and hope you found a fast one so the stream didn't buffer every 30 seconds. Today the tools are much better and easier to set up. Over the years the methods have had to change in order to combat MLB.TV's countermeasures, but I keep track of the trends and you can consult this guide to stay up to date on the latest working methods.
 
 ### Why does MLB.TV black out games?
 The short answer is because of broadcast agreements. Regional networks (like Bally Sports, YES Network, etc.) pay big money to MLB for exclusive rights to broadcast games in their territories. Those networks want you watching your team on their channels and seeing the commercials that pay them on those channels. Some networks, like the Dodgers' SportsNet LA, are special channels that require an additional fee for providers like Direct TV or Dish Network to carry. If MLB.TV allowed customers who live in those territories to stream games it would undermine the value of the contracts it sold to these networks.
@@ -65,8 +65,8 @@ However, even with these team-specific packages, you will still not be able to s
 ### Well, I've already purchased MLB.TV for the season and I'm blacked out. What can I do?
 It is possible to bypass MLB.TV blackouts using a couple of methods. Both methods "trick" MLB.TV into believing that you are watching from a location outside of the blackout region. What's great about these methods is that not only will you get around regional blackouts, but you will also be able to watch nationally blacked-out games!
 
-#### Smart DNS
-Smart DNS is a less invasive method of bypassing blackouts. It works by rerouting requests MLB.TV makes to obtain your location making you appear to MLB to be connecting from outside the blackout region. Unlike a VPN, your traffic is not encrypted, which means there is no impact on streaming speed.
-
 #### VPN
 VPN works similarly in that your location is masked by the VPN service, but you also gain the additional protection of having all of your network information encrypted. This hides your internet traffic from even your own internet service provider, which is a nice security benefit.
+
+#### Smart DNS
+Smart DNS is a less invasive method of bypassing blackouts. It works by rerouting requests MLB.TV makes to obtain your location making you appear to MLB to be connecting from outside the blackout region. Unlike a VPN, your traffic is not encrypted, which means there is no impact on streaming speed.
