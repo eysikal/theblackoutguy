@@ -59,3 +59,10 @@ Here are links for the 22 teams for which this option is offered:
 However, even with these team-specific packages, you will still not be able to stream games that are exclusively broadcast on national TV - that includes games on ESPN, Fox/FS1, TBS, Apple TV+, NBC/Peacock, or Netflix. For example, the Yankees vs. Giants Opening Night game on March 25 is a Netflix exclusive. Friday Night Baseball doubleheaders are exclusive to Apple TV+. Sunday Night Baseball has moved to NBC/Peacock for 2026. TBS has Tuesday night games all season. And ESPN still has 30 exclusive midweek games. Postseason games are also excluded — Wild Card games are on NBC/Peacock, the ALDS and ALCS are on TBS, and the NLDS, NLCS, and World Series are on Fox.
 
 ### Well, I've already purchased MLB.TV for the season and I'm blacked out. What can I do?
+It is possible to bypass MLB.TV blackouts using a couple of methods. Both methods "trick" MLB.TV into believing that you are watching from a location outside of the blackout region. What's great about these methods is that not only will you get around regional blackouts, but you will also be able to watch nationally blacked-out games!
+
+#### Smart DNS
+Smart DNS is a less invasive method bypassing blackouts. It works by redirecting requests MLB.TV makes to obtain your location to an alternate server that will create the appearance that you are connecting from outside the United States. 
+
+#### VPN
+VPN is similar in that your location is masked by the VPN service, but you also gain the additional protection of having all of your network information encrypted. 
