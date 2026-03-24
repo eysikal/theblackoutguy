@@ -5,4 +5,4 @@ slug = "about"
 layout = "simple"
 +++
 
-*About page content coming soon.*
+I'm a regular MLB fan who's been helping other fans bypass MLB.TV blackouts since 2009. I keep track of the latest working methods in my guide [here](/bypass-mlbtv-blackouts/).
