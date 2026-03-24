@@ -16,14 +16,14 @@
   weight = 10
 
 [[main]]
-  name = "VPN Status"
+  name = "Bypass Status"
   pageRef = "vpn-status"
   weight = 20
 
-[[main]]
-  name = "Blog"
-  pageRef = "posts"
-  weight = 30
+# [[main]]
+#   name = "Blog"
+#   pageRef = "posts"
+#   weight = 30
 
 [[main]]
   name = "About"
