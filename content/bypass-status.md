@@ -1,6 +1,6 @@
 +++
-title = "VPN Blackout Bypass Status"
-description = "Which VPNs currently work to bypass MLB.TV blackouts? Updated regularly with test results across devices and platforms."
+title = "MLB.TV Blackout Bypass Status"
+description = "Which methods (VPN/Smart DNS) from which providers currently work to bypass MLB.TV blackouts? Updated regularly with test results across devices and platforms."
 slug = "bypass-status"
 layout = "simple"
 +++
