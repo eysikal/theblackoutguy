@@ -8,10 +8,6 @@ showDate = false
 showTableOfContents=true
 +++
 
-
-
-
-
 ## I'm blacked out of my MLB game. Help!
 So you've purchased MLB.TV and you're sitting down to watch your favorite team and you're hit with the annoying blackout message.
 
@@ -72,6 +68,6 @@ A VPN or Virtual Private Network works by masking your location to MLB.TV. With 
 Smart DNS is a less invasive method of bypassing blackouts. DNS (Domain Name System) is what allows internet users to use names like "amazon.com" to visit a website instead of having to type in a cumbersome IP address. The service that translates these names (amazon.com, google.com, mlb.tv, etc) into IP addresses is normally provided by your ISP (Internet Service Provider). When you instead opt to use a Smart DNS service, traffic that would normally be routed directly to MLB.TV instead passes through a proxy server managed by the Smart DNS provider. When MLB.TV asks your streaming device to share its location, the Smart DNS picks this up and first routes the request through its proxy. Because the proxy server is located in an area outside the blackout region, MLB.TV sees a valid IP address and authorizes your request to stream. Unlike a VPN, your traffic is not encrypted, which means there is no impact to streaming/internet speeds.
 
 ### Is this legal?
-Yes! It is perfectly and completely legal to use a vpn or Smart DNS to bypass geo-restrictions on a service like MLB.TV. 
+Yes! In the USA, it is perfectly and completely legal to use a vpn or Smart DNS to bypass geo-restrictions on a service like MLB.TV. 
 
-When you cirumvent a blackout you are technically breaking the terms of use agreement MLB.TV has put in place, but it is not a criminal offense. This means that theoretically, MLB is within its rights to cancel your account if they discover that you are attempting to bypass blackouts. However, I have yet to hear of anyone having their account canceled. I have been bypassing blackouts every year since 2009 and have never had any issues. [In this article](https://tvanswerman.com/2024/05/15/have-i-ever-tried-a-vpn-to-avoid-mlb-blackouts-yes-i-have-heres-what-happened/) you can read responses from an MLB spokesperson who admits that MLB has never come afer someone for bypassing blackouts.
+When you cirumvent a blackout you are technically breaking the terms of use agreement MLB.TV has put in place, but it is not a criminal offense. This means that MLB is within its rights to cancel your account if they discover that you are attempting to bypass blackouts. However, I have yet to hear of anyone having their account canceled. I have been bypassing blackouts every year since 2009 and have never had any issues. [In this article](https://tvanswerman.com/2024/05/15/have-i-ever-tried-a-vpn-to-avoid-mlb-blackouts-yes-i-have-heres-what-happened/) you can read responses from an MLB spokesperson who admits that MLB has never come afer someone for bypassing blackouts.
