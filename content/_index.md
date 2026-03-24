@@ -9,7 +9,7 @@ Tired of MLB.TV blackouts? I’ve been helping fans bypass blackouts since 2009.
 {{< button href="/bypass-mlbtv-blackouts/" >}}
 How to Bypass Blackouts
 {{< /button >}}
-{{< button href="/vpn-status/" >}}
+{{< button href="/bypass-status/" >}}
 What's Working Right Now
 {{< /button >}}
 </div>
