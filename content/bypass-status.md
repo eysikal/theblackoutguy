@@ -12,5 +12,6 @@ layout = "simple"
 | VPN Provider | Desktop | Mobile | Streaming Devices | Status |
 |---|---|---|---|---|
 | [Surfshark](https://www.kqzyfj.com/click-101161336-15438560) | √ | √ | √ | Untested |
+| [Surfshark](/go/surfshark) | √ | √ | √ | Untested |
 | NordVPN | - | - | - | Untested |
 | ExpressVPN | - | - | - | Untested |
