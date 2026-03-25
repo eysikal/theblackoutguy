@@ -20,6 +20,10 @@ You might say to yourself, "I live in Las Vegas but I'm blacked out of Dodgers g
 
 Luckily the answer is **yes**.
 
+{{< alert icon="check" >}}
+If you already know you need a VPN to bypass blackouts, check out my personally tested providers [here](/bypass-status) or just grab [Surfshark](/go/surfshark) — as my current top recommendation.
+{{< /alert >}}
+
 I have been bypassing MLB.TV blackouts since 2009. When I first started getting around blackouts, the only real option was to route your connection through a sketch free proxy server and hope you found a fast one so the stream didn't buffer every 30 seconds. Today the tools are much better and easier to set up. Over the years the methods have had to change in order to combat MLB.TV's countermeasures, but I keep track of the trends and you can consult this guide to stay up to date on the latest working methods.
 
 ### Why does MLB.TV black out games?
