@@ -1,6 +1,6 @@
 +++
 title = "The Blackout Guy"
-description = "Your go-to resource for bypassing MLB.TV blackout restrictions. Tested VPN solutions, guides, and up-to-date status reports."
+description = "Your go-to resource for bypassing MLB.TV blackout restrictions. Tested VPN/Smart DNS solutions, guides, and up-to-date status reports."
 +++
 
 Tired of MLB.TV blackouts? I’ve been helping fans bypass blackouts since 2009.
