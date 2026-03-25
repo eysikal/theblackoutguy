@@ -8,6 +8,9 @@ showDate = false
 showTableOfContents=true
 +++
 
+> This article contains affiliate links. If you purchase a VPN/Smart DNS service through one of my links, I may earn a commission at no extra cost to you. I only recommend services I've personally used and verified. You can read my full [affiliate disclosure](/affiliate-disclosure) for more details.
+
+
 ## I'm blacked out of my MLB game. Help!
 So you've purchased MLB.TV and you're sitting down to watch your favorite team and you're hit with the annoying blackout message.
 
