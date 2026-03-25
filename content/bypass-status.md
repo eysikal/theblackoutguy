@@ -9,8 +9,8 @@ layout = "simple"
 
 *Last tested: Status table will be as soon as I have a chance to test on Opening Day, March 26th, 2026.*
 
-| VPN Provider | Desktop | Mobile | Streaming Devices | Status |
-|---|---|---|---|---|
-| [Surfshark](/go/surfshark) | √ | √ | √ | Untested |
-| NordVPN | - | - | - | Untested |
-| ExpressVPN | - | - | - | Untested |
+| Provider | Provider type | Desktop | Mobile | Streaming Devices | Last tested |
+|---|---|---|---|---|---|
+| [Surfshark](/go/surfshark) | VPN | √ | √ | √ | Untested |
+| [NordVPN](/go/nord-vpn) | VPN | √ | √ | √ | Untested |
+| [Unlocator](/go/unlocator) | Smart DNS | √ | √ | √ | Untested |
