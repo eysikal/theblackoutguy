@@ -3,15 +3,15 @@ title = "MLB.TV Blackout Bypass Status"
 description = "Which methods (VPN/Smart DNS) from which providers currently work to bypass MLB.TV blackouts? Updated regularly with test results across devices and platforms."
 slug = "bypass-status"
 layout = "simple"
+robots = "noindex, nofollow"
 +++
 
-*Last tested: Coming soon*
-
-| VPN Provider | Desktop | Mobile | Streaming Devices | Status |
-|---|---|---|---|---|
-| [Surfshark](https://www.kqzyfj.com/click-101161336-15438560) | √ | √ | √ | Untested |
-| NordVPN | - | - | - | Untested |
-| ExpressVPN | - | - | - | Untested |
-
+> This article contains affiliate links. If you purchase a VPN/Smart DNS service through one of my links, I may earn a commission at no extra cost to you. I only recommend services I've personally used and verified. You can read my full [affiliate disclosure](/affiliate-disclosure) for more details.
 
 *Note: Status table will be updated ASAP on March 27th, 2026 when I have a chance to test blackouts in my region.*
+
+| Provider | Provider type | Desktop | Mobile | Streaming Devices | Last tested |
+|---|---|---|---|---|---|
+| [Surfshark](/go/surfshark) | VPN | √ | √ | √ | Untested |
+| [NordVPN](/go/nord-vpn) | VPN | √ | √ | √ | Untested |
+| [Unlocator](/go/unlocator) | Smart DNS | √ | √ | √ | Untested |
