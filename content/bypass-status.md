@@ -14,4 +14,4 @@ layout = "simple"
 | ExpressVPN | - | - | - | Untested |
 
 
-*Status table will be updated ASAP on Opening Day, March 26th, 2026.*
+*Note: Status table will be updated ASAP on March 27th, 2026 when I have a chance to test blackouts in my region.*
