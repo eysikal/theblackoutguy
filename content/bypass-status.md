@@ -10,8 +10,8 @@ robots = "noindex, nofollow"
 
 *Note: Status table will be updated ASAP on March 27th, 2026 when I have a chance to test blackouts in my region.*
 
-| Provider | Provider type | Desktop | Mobile | Streaming Devices | Last tested |
-|---|---|---|---|---|---|
-| [Surfshark](/go/surfshark) | VPN | √ | √ | √ | Untested |
-| [NordVPN](/go/nord-vpn) | VPN | √ | √ | √ | Untested |
-| [Unlocator](/go/unlocator) | Smart DNS | √ | √ | √ | Untested |
+| Provider | Provider type | PC | Android | iPhone/iPad | Roku | Fire TV Stick | Apple TV | Last tested |
+|---|---|---|---|---|---|---|---|---|
+| [Surfshark](/go/surfshark) | VPN | Untested | Untested | Untested | Untested | Untested | Yes! | Fri Mar 27 |
+| [NordVPN](/go/nord-vpn) | VPN | Untested | Untested | Untested | Untested | Untested | Untested | — |
+| [Unlocator](/go/unlocator) | Smart DNS | Untested | Untested | Untested | Untested | Untested | Untested | — |
