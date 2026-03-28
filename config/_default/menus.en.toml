@@ -16,8 +16,8 @@
   weight = 10
 
 [[main]]
-  name = "Bypass Status"
-  pageRef = "bypass-status"
+  name = "VPN Status"
+  pageRef = "mlbtv-vpn-status"
   weight = 20
 
 # [[main]]

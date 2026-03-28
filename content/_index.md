@@ -9,7 +9,7 @@ description = "Your go-to resource for bypassing MLB.TV blackout restrictions. T
 {{< button href="/bypass-mlbtv-blackouts/" >}}
 How to Bypass Blackouts
 {{< /button >}}
-{{< button href="/bypass-status/" >}}
+{{< button href="/mlbtv-vpn-status/" >}}
 What's Working Right Now
 {{< /button >}}
 </div>
