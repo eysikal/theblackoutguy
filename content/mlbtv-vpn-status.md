@@ -13,7 +13,7 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
 
 | Provider | Provider type | Roku | Fire TV Stick | Apple TV | PC | Android | iPhone/iPad | Last tested |
 |---|---|---|---|---|---|---|---|---|
-| [Surfshark](/go/surfshark) | VPN | — | No | — | — | — | No | Sat Mar 28 |
-| [NordVPN](/go/nord-vpn) | VPN | — | <a href="/go/nord-vpn"><strong style="color:#4ade80">Yes!</strong></a> | <a href="/go/nord-vpn"><strong style="color:#4ade80">Yes!</strong></a> | — | — | No | Sat Mar 28 |
-| [Unlocator](/go/unlocator) | VPN | — | — | — | — | — | No | Fri Mar 27 |
-| [Unlocator](/go/unlocator) | Smart DNS | — | — | No | — | — | No | Fri Mar 27 |
+| [Surfshark](/go/surfshark) | VPN | — | No | — | — | No | No | Sat Mar 28 |
+| [NordVPN](/go/nord-vpn) | VPN | — | <a href="/go/nord-vpn"><strong style="color:#4ade80">Yes!</strong></a> | <a href="/go/nord-vpn"><strong style="color:#4ade80">Yes!</strong></a> | — | No | No | Sat Mar 28 |
+| [Unlocator](/go/unlocator) | VPN | — | — | — | — | No | No | Fri Mar 27 |
+| [Unlocator](/go/unlocator) | Smart DNS | — | — | No | — | No | No | Fri Mar 27 |
