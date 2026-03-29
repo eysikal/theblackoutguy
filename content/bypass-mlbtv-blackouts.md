@@ -14,8 +14,6 @@ showTableOfContents=true
 ## I'm blacked out of my MLB game. Help!
 So you've purchased MLB.TV and you're sitting down to watch your favorite team and you're hit with the annoying blackout message.
 
-[image will go here of blackout screen]
-
 You might say to yourself, "I live in Las Vegas but I'm blacked out of Dodgers games? That doesn't make any sense. Is there a way around this?"
 
 Luckily the answer is **yes**.
