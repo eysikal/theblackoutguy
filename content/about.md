@@ -13,7 +13,7 @@ It started because I was frustrated. I was paying for MLB.TV and couldn't watch 
 Now I'm back with a fresh site and updated guides for the 2026 season. The blackout landscape has changed a lot — ESPN now sells MLB.TV, 22 teams offer in-market streaming packages — but blackouts still exist, and they still catch fans off guard. National broadcast blackouts on ESPN, Fox, TBS, Apple TV+, NBC/Peacock, and Netflix still lock out MLB.TV subscribers, and local territory restrictions still cover areas that don't make any sense.
 
 ### How I test
-I personally test every VPN and Smart DNS service I recommend. That means installing the app, connecting to a server, firing up a live MLB.TV stream, and confirming the blackout is actually bypassed. I test on desktop (browser), mobile (iOS and Android), and streaming devices. If something stops working, I update my [bypass status page](/bypass-status/) so you always know what's currently working.
+I personally test every VPN and Smart DNS service I recommend. That means installing the app, connecting to a server, firing up a live MLB.TV stream, and confirming the blackout is actually bypassed. I test on desktop (browser), mobile (iOS and Android), and streaming devices. If something stops working, I update my [bypass status page](/mlbtv-vpn-status/) so you always know what's currently working.
 
 I don't recommend services I haven't used and tested myself, and I don't rank providers based on who pays the highest commission. You can read my full [affiliate disclosure](/affiliate-disclosure/) for details.
 
