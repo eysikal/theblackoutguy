@@ -145,3 +145,5 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
   </div>
 
 </div>
+
+Want more information on bypassing blackouts and how it works? Consult my guide [here](/bypass-mlbtv-blackouts).
