@@ -25,11 +25,12 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
         <th>Android</th>
         <th>iPhone/iPad</th>
         <th>Last tested</th>
+        <th></th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><a href="/go/nord-vpn" rel="sponsored noopener" target="_blank">NordVPN</a></td>
+        <td>NordVPN</td>
         <td>VPN</td>
         <td>—</td>
         <td><a href="/go/nord-vpn" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></td>
@@ -38,9 +39,10 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
         <td>No</td>
         <td>No</td>
         <td>Mon Mar 30</td>
+        <td><a href="/go/nord-vpn" rel="sponsored noopener" target="_blank" style="background:#16a34a;color:#fff;padding:0.25rem 0.875rem;border-radius:9999px;font-weight:700;font-size:0.875rem;text-decoration:none;white-space:nowrap;">Get It →</a></td>
       </tr>
       <tr>
-        <td><a href="/go/surfshark" rel="sponsored noopener" target="_blank">Surfshark</a></td>
+        <td>Surfshark</td>
         <td>VPN</td>
         <td>—</td>
         <td><a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></td>
@@ -49,9 +51,10 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
         <td><a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></td>
         <td>No</td>
         <td>Mon Mar 30</td>
+        <td><a href="/go/surfshark" rel="sponsored noopener" target="_blank" style="background:#16a34a;color:#fff;padding:0.25rem 0.875rem;border-radius:9999px;font-weight:700;font-size:0.875rem;text-decoration:none;white-space:nowrap;">Get It →</a></td>
       </tr>
       <tr>
-        <td><a href="/go/unlocator" rel="sponsored noopener" target="_blank">Unlocator</a></td>
+        <td>Unlocator</td>
         <td>VPN</td>
         <td>—</td>
         <td>—</td>
@@ -60,9 +63,10 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
         <td>No</td>
         <td>No</td>
         <td>Fri Mar 27</td>
+        <td><a href="/go/unlocator" rel="sponsored noopener" target="_blank" style="background:#16a34a;color:#fff;padding:0.25rem 0.875rem;border-radius:9999px;font-weight:700;font-size:0.875rem;text-decoration:none;white-space:nowrap;">Get It →</a></td>
       </tr>
       <tr>
-        <td><a href="/go/unlocator" rel="sponsored noopener" target="_blank">Unlocator</a></td>
+        <td>Unlocator</td>
         <td>Smart DNS</td>
         <td>—</td>
         <td>—</td>
@@ -71,6 +75,7 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
         <td>No</td>
         <td>No</td>
         <td>Fri Mar 27</td>
+        <td><a href="/go/unlocator" rel="sponsored noopener" target="_blank" style="background:#16a34a;color:#fff;padding:0.25rem 0.875rem;border-radius:9999px;font-weight:700;font-size:0.875rem;text-decoration:none;white-space:nowrap;">Get It →</a></td>
       </tr>
     </tbody>
   </table>
@@ -81,8 +86,8 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
 
   <div style="border:1px solid rgba(255,255,255,0.15);border-radius:0.5rem;padding:1rem;">
     <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.75rem;">
-      <a href="/go/nord-vpn" rel="sponsored noopener" target="_blank" style="font-size:1.125rem;font-weight:700;">NordVPN</a>
-      <span style="font-size:0.75rem;padding:0.125rem 0.5rem;border-radius:9999px;border:1px solid rgba(255,255,255,0.2);">Working?</span>
+      <span style="font-size:1.125rem;font-weight:700;">NordVPN</span>
+      <a href="/go/nord-vpn" rel="sponsored noopener" target="_blank" style="background:#16a34a;color:#fff;padding:0.25rem 0.875rem;border-radius:9999px;font-weight:700;font-size:0.875rem;text-decoration:none;white-space:nowrap;">Get It →</a>
     </div>
     <div style="display:flex;flex-direction:column;gap:0.5rem;font-size:0.875rem;">
       <div style="display:flex;justify-content:space-between;"><span>Fire TV Stick</span><a href="/go/nord-vpn" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></div>
@@ -96,8 +101,8 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
 
   <div style="border:1px solid rgba(255,255,255,0.15);border-radius:0.5rem;padding:1rem;">
     <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.75rem;">
-      <a href="/go/surfshark" rel="sponsored noopener" target="_blank" style="font-size:1.125rem;font-weight:700;">Surfshark</a>
-      <span style="font-size:0.75rem;padding:0.125rem 0.5rem;border-radius:9999px;border:1px solid rgba(255,255,255,0.2);">Working?</span>
+      <span style="font-size:1.125rem;font-weight:700;">Surfshark</span>
+      <a href="/go/surfshark" rel="sponsored noopener" target="_blank" style="background:#16a34a;color:#fff;padding:0.25rem 0.875rem;border-radius:9999px;font-weight:700;font-size:0.875rem;text-decoration:none;white-space:nowrap;">Get It →</a>
     </div>
     <div style="display:flex;flex-direction:column;gap:0.5rem;font-size:0.875rem;">
       <div style="display:flex;justify-content:space-between;"><span>Fire TV Stick</span><a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></div>
@@ -111,8 +116,8 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
 
   <div style="border:1px solid rgba(255,255,255,0.15);border-radius:0.5rem;padding:1rem;">
     <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.75rem;">
-      <a href="/go/unlocator" rel="sponsored noopener" target="_blank" style="font-size:1.125rem;font-weight:700;">Unlocator (VPN)</a>
-      <span style="font-size:0.75rem;padding:0.125rem 0.5rem;border-radius:9999px;border:1px solid rgba(255,255,255,0.2);">Working?</span>
+      <span style="font-size:1.125rem;font-weight:700;">Unlocator (VPN)</span>
+      <a href="/go/unlocator" rel="sponsored noopener" target="_blank" style="background:#16a34a;color:#fff;padding:0.25rem 0.875rem;border-radius:9999px;font-weight:700;font-size:0.875rem;text-decoration:none;white-space:nowrap;">Get It →</a>
     </div>
     <div style="display:flex;flex-direction:column;gap:0.5rem;font-size:0.875rem;">
       <div style="display:flex;justify-content:space-between;"><span>Fire TV Stick</span><span style="opacity:0.5;">—</span></div>
@@ -126,8 +131,8 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
 
   <div style="border:1px solid rgba(255,255,255,0.15);border-radius:0.5rem;padding:1rem;">
     <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.75rem;">
-      <a href="/go/unlocator" rel="sponsored noopener" target="_blank" style="font-size:1.125rem;font-weight:700;">Unlocator (Smart DNS)</a>
-      <span style="font-size:0.75rem;padding:0.125rem 0.5rem;border-radius:9999px;border:1px solid rgba(255,255,255,0.2);">Working?</span>
+      <span style="font-size:1.125rem;font-weight:700;">Unlocator (Smart DNS)</span>
+      <a href="/go/unlocator" rel="sponsored noopener" target="_blank" style="background:#16a34a;color:#fff;padding:0.25rem 0.875rem;border-radius:9999px;font-weight:700;font-size:0.875rem;text-decoration:none;white-space:nowrap;">Get It →</a>
     </div>
     <div style="display:flex;flex-direction:column;gap:0.5rem;font-size:0.875rem;">
       <div style="display:flex;justify-content:space-between;"><span>Fire TV Stick</span><span style="opacity:0.5;">—</span></div>
