@@ -5,15 +5,138 @@ slug = "mlbtv-vpn-status"
 layout = "simple"
 +++
 
-> This article contains affiliate links. If you purchase a VPN/Smart DNS service through one of my links, I may earn a commission at no extra cost to you. I only recommend services I've personally used and verified. You can read my full [affiliate disclosure](/affiliate-disclosure) for more details.
+> Contains affiliate links. [Details](/affiliate-disclosure).
 
 I test VPN and Smart DNS services' ability to bypass MLB.TV blackouts across multiple devices throughout the season. This page tells you what's currently working and what isn't. The results are based on my own personal testing, not claims made by the service providers themselves. If a VPN happens to stop working mid-season, I'll update this page as soon as I've verified it.
 
 A **"Yes!"** means I have successfully bypassed blackouts using the provider in that row on the device in that column. A **"No"** means I've tested and it's not working.
 
-| Provider | Provider type | Roku | Fire TV Stick | Apple TV | PC | Android | iPhone/iPad | Last tested |
-|---|---|---|---|---|---|---|---|---|
-| <a href="/go/nord-vpn" rel="sponsored noopener" target="_blank">NordVPN</a> | VPN | — | <a href="/go/nord-vpn" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a> | <a href="/go/nord-vpn" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a> | <a href="/go/nord-vpn" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a> | No | No | Mon Mar 30 |
-| <a href="/go/surfshark" rel="sponsored noopener" target="_blank">Surfshark</a> | VPN | — | <a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a> | <a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a> | <a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a> | <a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a> | No | Mon Mar 30 |
-| <a href="/go/unlocator" rel="sponsored noopener" target="_blank">Unlocator</a> | VPN | — | — | — | — | No | No | Fri Mar 27 |
-| <a href="/go/unlocator" rel="sponsored noopener" target="_blank">Unlocator</a> | Smart DNS | — | — | No | — | No | No | Fri Mar 27 |
+<!-- Desktop table -->
+<div class="vpn-table-desktop">
+  <table>
+    <thead>
+      <tr>
+        <th>Provider</th>
+        <th>Type</th>
+        <th>Roku</th>
+        <th>Fire TV Stick</th>
+        <th>Apple TV</th>
+        <th>PC</th>
+        <th>Android</th>
+        <th>iPhone/iPad</th>
+        <th>Last tested</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="/go/nord-vpn" rel="sponsored noopener" target="_blank">NordVPN</a></td>
+        <td>VPN</td>
+        <td>—</td>
+        <td><a href="/go/nord-vpn" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></td>
+        <td><a href="/go/nord-vpn" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></td>
+        <td><a href="/go/nord-vpn" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></td>
+        <td>No</td>
+        <td>No</td>
+        <td>Mon Mar 30</td>
+      </tr>
+      <tr>
+        <td><a href="/go/surfshark" rel="sponsored noopener" target="_blank">Surfshark</a></td>
+        <td>VPN</td>
+        <td>—</td>
+        <td><a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></td>
+        <td><a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></td>
+        <td><a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></td>
+        <td><a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></td>
+        <td>No</td>
+        <td>Mon Mar 30</td>
+      </tr>
+      <tr>
+        <td><a href="/go/unlocator" rel="sponsored noopener" target="_blank">Unlocator</a></td>
+        <td>VPN</td>
+        <td>—</td>
+        <td>—</td>
+        <td>—</td>
+        <td>—</td>
+        <td>No</td>
+        <td>No</td>
+        <td>Fri Mar 27</td>
+      </tr>
+      <tr>
+        <td><a href="/go/unlocator" rel="sponsored noopener" target="_blank">Unlocator</a></td>
+        <td>Smart DNS</td>
+        <td>—</td>
+        <td>—</td>
+        <td>No</td>
+        <td>—</td>
+        <td>No</td>
+        <td>No</td>
+        <td>Fri Mar 27</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- Mobile cards -->
+<div class="vpn-cards-mobile not-prose">
+
+  <div style="border:1px solid rgba(255,255,255,0.15);border-radius:0.5rem;padding:1rem;">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.75rem;">
+      <a href="/go/nord-vpn" rel="sponsored noopener" target="_blank" style="font-size:1.125rem;font-weight:700;">NordVPN</a>
+      <span style="font-size:0.75rem;padding:0.125rem 0.5rem;border-radius:9999px;border:1px solid rgba(255,255,255,0.2);">Working?</span>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:0.5rem;font-size:0.875rem;">
+      <div style="display:flex;justify-content:space-between;"><span>Fire TV Stick</span><a href="/go/nord-vpn" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></div>
+      <div style="display:flex;justify-content:space-between;"><span>Apple TV</span><a href="/go/nord-vpn" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></div>
+      <div style="display:flex;justify-content:space-between;"><span>PC</span><a href="/go/nord-vpn" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></div>
+      <div style="display:flex;justify-content:space-between;"><span>Android</span><span style="opacity:0.5;">No</span></div>
+      <div style="display:flex;justify-content:space-between;"><span>iPhone/iPad</span><span style="opacity:0.5;">No</span></div>
+    </div>
+    <div style="margin-top:0.75rem;font-size:0.75rem;opacity:0.4;">Last tested: Mon Mar 30</div>
+  </div>
+
+  <div style="border:1px solid rgba(255,255,255,0.15);border-radius:0.5rem;padding:1rem;">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.75rem;">
+      <a href="/go/surfshark" rel="sponsored noopener" target="_blank" style="font-size:1.125rem;font-weight:700;">Surfshark</a>
+      <span style="font-size:0.75rem;padding:0.125rem 0.5rem;border-radius:9999px;border:1px solid rgba(255,255,255,0.2);">Working?</span>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:0.5rem;font-size:0.875rem;">
+      <div style="display:flex;justify-content:space-between;"><span>Fire TV Stick</span><a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></div>
+      <div style="display:flex;justify-content:space-between;"><span>Apple TV</span><a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></div>
+      <div style="display:flex;justify-content:space-between;"><span>PC</span><a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></div>
+      <div style="display:flex;justify-content:space-between;"><span>Android</span><a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></div>
+      <div style="display:flex;justify-content:space-between;"><span>iPhone/iPad</span><span style="opacity:0.5;">No</span></div>
+    </div>
+    <div style="margin-top:0.75rem;font-size:0.75rem;opacity:0.4;">Last tested: Mon Mar 30</div>
+  </div>
+
+  <div style="border:1px solid rgba(255,255,255,0.15);border-radius:0.5rem;padding:1rem;">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.75rem;">
+      <a href="/go/unlocator" rel="sponsored noopener" target="_blank" style="font-size:1.125rem;font-weight:700;">Unlocator (VPN)</a>
+      <span style="font-size:0.75rem;padding:0.125rem 0.5rem;border-radius:9999px;border:1px solid rgba(255,255,255,0.2);">Working?</span>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:0.5rem;font-size:0.875rem;">
+      <div style="display:flex;justify-content:space-between;"><span>Fire TV Stick</span><span style="opacity:0.5;">—</span></div>
+      <div style="display:flex;justify-content:space-between;"><span>Apple TV</span><span style="opacity:0.5;">—</span></div>
+      <div style="display:flex;justify-content:space-between;"><span>PC</span><span style="opacity:0.5;">—</span></div>
+      <div style="display:flex;justify-content:space-between;"><span>Android</span><span style="opacity:0.5;">No</span></div>
+      <div style="display:flex;justify-content:space-between;"><span>iPhone/iPad</span><span style="opacity:0.5;">No</span></div>
+    </div>
+    <div style="margin-top:0.75rem;font-size:0.75rem;opacity:0.4;">Last tested: Fri Mar 27</div>
+  </div>
+
+  <div style="border:1px solid rgba(255,255,255,0.15);border-radius:0.5rem;padding:1rem;">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.75rem;">
+      <a href="/go/unlocator" rel="sponsored noopener" target="_blank" style="font-size:1.125rem;font-weight:700;">Unlocator (Smart DNS)</a>
+      <span style="font-size:0.75rem;padding:0.125rem 0.5rem;border-radius:9999px;border:1px solid rgba(255,255,255,0.2);">Working?</span>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:0.5rem;font-size:0.875rem;">
+      <div style="display:flex;justify-content:space-between;"><span>Fire TV Stick</span><span style="opacity:0.5;">—</span></div>
+      <div style="display:flex;justify-content:space-between;"><span>Apple TV</span><span style="opacity:0.5;">No</span></div>
+      <div style="display:flex;justify-content:space-between;"><span>PC</span><span style="opacity:0.5;">—</span></div>
+      <div style="display:flex;justify-content:space-between;"><span>Android</span><span style="opacity:0.5;">No</span></div>
+      <div style="display:flex;justify-content:space-between;"><span>iPhone/iPad</span><span style="opacity:0.5;">No</span></div>
+    </div>
+    <div style="margin-top:0.75rem;font-size:0.75rem;opacity:0.4;">Last tested: Fri Mar 27</div>
+  </div>
+
+</div>

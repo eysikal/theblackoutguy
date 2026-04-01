@@ -1,0 +1,7 @@
+.vpn-table-desktop { display: none; }
+.vpn-cards-mobile { display: flex; flex-direction: column; gap: 1rem; margin-top: 1.5rem; }
+
+@media (min-width: 853px) {
+  .vpn-table-desktop { display: block; }
+  .vpn-cards-mobile { display: none; }
+}
