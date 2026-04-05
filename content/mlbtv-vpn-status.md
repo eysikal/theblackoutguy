@@ -38,7 +38,7 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
         <td><a href="/go/nord-vpn" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></td>
         <td>No</td>
         <td>No</td>
-        <td>Mon Mar 30</td>
+        <td>Sun Apr 5</td>
         <td><a href="/go/nord-vpn" rel="sponsored noopener" target="_blank" style="background:#16a34a;color:#fff;padding:0.25rem 0.875rem;border-radius:9999px;font-weight:700;font-size:0.875rem;text-decoration:none;white-space:nowrap;">Get It →</a></td>
       </tr>
       <tr>
@@ -56,25 +56,25 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
       <tr>
         <td>Unlocator</td>
         <td>VPN</td>
-        <td>—</td>
-        <td>—</td>
-        <td>—</td>
-        <td>—</td>
         <td>No</td>
         <td>No</td>
-        <td>Fri Mar 27</td>
+        <td>No</td>
+        <td>No</td>
+        <td>No</td>
+        <td>No</td>
+        <td>Sun Apr 5</td>
         <td><a href="/go/unlocator" rel="sponsored noopener" target="_blank" style="background:#16a34a;color:#fff;padding:0.25rem 0.875rem;border-radius:9999px;font-weight:700;font-size:0.875rem;text-decoration:none;white-space:nowrap;">Get It →</a></td>
       </tr>
       <tr>
         <td>Unlocator</td>
         <td>Smart DNS</td>
-        <td>—</td>
-        <td>—</td>
-        <td>No</td>
-        <td>—</td>
         <td>No</td>
         <td>No</td>
-        <td>Fri Mar 27</td>
+        <td>No</td>
+        <td>No</td>
+        <td>No</td>
+        <td>No</td>
+        <td>Sun Apr 5</td>
         <td><a href="/go/unlocator" rel="sponsored noopener" target="_blank" style="background:#16a34a;color:#fff;padding:0.25rem 0.875rem;border-radius:9999px;font-weight:700;font-size:0.875rem;text-decoration:none;white-space:nowrap;">Get It →</a></td>
       </tr>
     </tbody>
@@ -96,7 +96,7 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
       <div style="display:flex;justify-content:space-between;"><span>Android</span><span style="opacity:0.5;">No</span></div>
       <div style="display:flex;justify-content:space-between;"><span>iPhone/iPad</span><span style="opacity:0.5;">No</span></div>
     </div>
-    <div style="margin-top:0.75rem;font-size:0.75rem;opacity:0.4;">Last tested: Mon Mar 30</div>
+    <div style="margin-top:0.75rem;font-size:0.75rem;opacity:0.4;">Last tested: Sun Apr 5</div>
   </div>
 
   <div style="border:1px solid rgba(255,255,255,0.15);border-radius:0.5rem;padding:1rem;">
@@ -120,13 +120,13 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
       <a href="/go/unlocator" rel="sponsored noopener" target="_blank" style="background:#16a34a;color:#fff;padding:0.25rem 0.875rem;border-radius:9999px;font-weight:700;font-size:0.875rem;text-decoration:none;white-space:nowrap;">Get It →</a>
     </div>
     <div style="display:flex;flex-direction:column;gap:0.5rem;font-size:0.875rem;">
-      <div style="display:flex;justify-content:space-between;"><span>Fire TV Stick</span><span style="opacity:0.5;">—</span></div>
-      <div style="display:flex;justify-content:space-between;"><span>Apple TV</span><span style="opacity:0.5;">—</span></div>
-      <div style="display:flex;justify-content:space-between;"><span>PC</span><span style="opacity:0.5;">—</span></div>
+      <div style="display:flex;justify-content:space-between;"><span>Fire TV Stick</span><span style="opacity:0.5;">No</span></div>
+      <div style="display:flex;justify-content:space-between;"><span>Apple TV</span><span style="opacity:0.5;">No</span></div>
+      <div style="display:flex;justify-content:space-between;"><span>PC</span><span style="opacity:0.5;">No</span></div>
       <div style="display:flex;justify-content:space-between;"><span>Android</span><span style="opacity:0.5;">No</span></div>
       <div style="display:flex;justify-content:space-between;"><span>iPhone/iPad</span><span style="opacity:0.5;">No</span></div>
     </div>
-    <div style="margin-top:0.75rem;font-size:0.75rem;opacity:0.4;">Last tested: Fri Mar 27</div>
+    <div style="margin-top:0.75rem;font-size:0.75rem;opacity:0.4;">Last tested: Sun Apr 5</div>
   </div>
 
   <div style="border:1px solid rgba(255,255,255,0.15);border-radius:0.5rem;padding:1rem;">
@@ -135,13 +135,13 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
       <a href="/go/unlocator" rel="sponsored noopener" target="_blank" style="background:#16a34a;color:#fff;padding:0.25rem 0.875rem;border-radius:9999px;font-weight:700;font-size:0.875rem;text-decoration:none;white-space:nowrap;">Get It →</a>
     </div>
     <div style="display:flex;flex-direction:column;gap:0.5rem;font-size:0.875rem;">
-      <div style="display:flex;justify-content:space-between;"><span>Fire TV Stick</span><span style="opacity:0.5;">—</span></div>
+      <div style="display:flex;justify-content:space-between;"><span>Fire TV Stick</span><span style="opacity:0.5;">No</span></div>
       <div style="display:flex;justify-content:space-between;"><span>Apple TV</span><span style="opacity:0.5;">No</span></div>
-      <div style="display:flex;justify-content:space-between;"><span>PC</span><span style="opacity:0.5;">—</span></div>
+      <div style="display:flex;justify-content:space-between;"><span>PC</span><span style="opacity:0.5;">No</span></div>
       <div style="display:flex;justify-content:space-between;"><span>Android</span><span style="opacity:0.5;">No</span></div>
       <div style="display:flex;justify-content:space-between;"><span>iPhone/iPad</span><span style="opacity:0.5;">No</span></div>
     </div>
-    <div style="margin-top:0.75rem;font-size:0.75rem;opacity:0.4;">Last tested: Fri Mar 27</div>
+    <div style="margin-top:0.75rem;font-size:0.75rem;opacity:0.4;">Last tested: Sun Apr 5</div>
   </div>
 
 </div>
