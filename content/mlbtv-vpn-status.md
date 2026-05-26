@@ -148,6 +148,18 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
 
 </div>
 
+## Testing Log
+
+<div style="display:flex;flex-direction:column;gap:0.75rem;margin-top:1rem;">
+
+  <div style="border:1px solid rgba(255,255,255,0.15);border-radius:0.5rem;padding:1rem;">
+    <div style="font-size:0.75rem;opacity:0.5;margin-bottom:0.5rem;">Mon May 25, 2026 &middot; NordVPN &middot; Apple TV</div>
+    <div style="font-size:0.875rem;font-weight:600;margin-bottom:0.5rem;">Colorado Rockies @ LA Dodgers (blacked out in Utah)</div>
+    <p style="font-size:0.875rem;margin:0;">My first two tries the MLB app on Apple TV seemed to detect that I was using a VPN. When I attempted to bring up the list of games it gave me a generic error like "Error listing games". I was on an Albuquerque VPN server and switched to Seattle and tried again. This time it worked. It's likely that MLB maintains a list of IPs it knows are associated with VPNs and blacklists them. Switching to another server location must have gotten me a non-blacklisted IP. If your first server doesn't work, don't give up. Try a couple of VPN server locations.</p>
+  </div>
+
+</div>
+
 <p style="font-size:0.8rem;opacity:0.5;">* Roku has no native VPN app — this requires setting up the VPN on your router.</p>
 <p style="font-size:0.8rem;opacity:0.5;">** Worked, but connection speeds were slow.</p>
 
