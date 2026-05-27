@@ -38,7 +38,7 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
         <td><a href="/go/nord-vpn" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></td>
         <td><span style="color:#f87171;font-weight:600;">✗</span></td>
         <td><span style="color:#f87171;font-weight:600;">✗</span></td>
-        <td>Mon May 25</td>
+        <td>Tue May 26</td>
         <td><a href="/go/nord-vpn" rel="sponsored noopener" target="_blank" style="background:#16a34a;color:#fff;padding:0.25rem 0.875rem;border-radius:9999px;font-weight:700;font-size:0.875rem;text-decoration:none;white-space:nowrap;">Get It →</a></td>
       </tr>
       <tr>
@@ -50,7 +50,7 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
         <td><a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></td>
         <td><a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></td>
         <td><span style="color:#f87171;font-weight:600;">✗</span></td>
-        <td>Thu Apr 9</td>
+        <td>Tue May 26</td>
         <td><a href="/go/surfshark" rel="sponsored noopener" target="_blank" style="background:#16a34a;color:#fff;padding:0.25rem 0.875rem;border-radius:9999px;font-weight:700;font-size:0.875rem;text-decoration:none;white-space:nowrap;">Get It →</a></td>
       </tr>
       <tr>
@@ -97,7 +97,7 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
       <div style="display:flex;justify-content:space-between;"><span>Android</span><span style="color:#f87171;font-weight:600;">✗</span></div>
       <div style="display:flex;justify-content:space-between;"><span>iPhone/iPad</span><span style="color:#f87171;font-weight:600;">✗</span></div>
     </div>
-    <div style="margin-top:0.75rem;font-size:0.75rem;opacity:0.4;">Last tested: Mon May 25</div>
+    <div style="margin-top:0.75rem;font-size:0.75rem;opacity:0.4;">Last tested: Tue May 26</div>
   </div>
 
   <div style="border:1px solid rgba(255,255,255,0.15);border-radius:0.5rem;padding:1rem;">
@@ -113,7 +113,7 @@ A **"Yes!"** means I have successfully bypassed blackouts using the provider in 
       <div style="display:flex;justify-content:space-between;"><span>Android</span><a href="/go/surfshark" rel="sponsored noopener" target="_blank"><strong style="color:#4ade80">Yes!</strong></a></div>
       <div style="display:flex;justify-content:space-between;"><span>iPhone/iPad</span><span style="color:#f87171;font-weight:600;">✗</span></div>
     </div>
-    <div style="margin-top:0.75rem;font-size:0.75rem;opacity:0.4;">Last tested: Thu Apr 9</div>
+    <div style="margin-top:0.75rem;font-size:0.75rem;opacity:0.4;">Last tested: Tue May 26</div>
   </div>
 
   <div style="border:1px solid rgba(255,255,255,0.15);border-radius:0.5rem;padding:1rem;">
