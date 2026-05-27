@@ -9,7 +9,7 @@ layout = "simple"
 
 I test VPN and Smart DNS services' ability to bypass MLB.TV blackouts across multiple devices throughout the season. This page tells you what's currently working and what isn't. The results are based on my own personal testing, not claims made by the service providers themselves. If a VPN happens to stop working mid-season, I'll update this page as soon as I've verified it.
 
-A **"Yes!"** means I have successfully bypassed blackouts using the provider in that row on the device in that column. A **"No"** means I've tested and it's not working.
+A **"Yes!"** means I have successfully bypassed blackouts using the provider in that row on the device in that column. A <span style="color:#f87171;font-weight:600;">✗</span> means I've tested and it's not working.
 
 <!-- Desktop table -->
 <div class="vpn-table-desktop">
